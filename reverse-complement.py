@@ -6,13 +6,13 @@ VERSION
     1.1
     
 AUTHOR
-	EMMANUEL HERNANDEZ
+	EMMANUEL HERNANDEZ.
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
     
 CATEGORY
-	Genomic Sequence
+	Genomic Sequence.
     
 USAGE
 
