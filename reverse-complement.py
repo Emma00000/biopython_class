@@ -3,7 +3,7 @@ NAME
 	reverse-complement.py
     
 VERSION
-    1.0
+    1.1
     
 AUTHOR
 	Hely Salgado
@@ -20,7 +20,7 @@ USAGE
     
     example
     
-    % python reverse-complement -i sequence.txt
+    % python reverse-complement.py -i sequence.txt
 
 '''
 
