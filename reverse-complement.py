@@ -6,7 +6,7 @@ VERSION
     1.1
     
 AUTHOR
-	EMMANUEL HERNANDEZ.
+	EMMANUEL HERNANDEZ & SALVADOR GONZALEZ.
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
